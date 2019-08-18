@@ -34,7 +34,7 @@ Tech Stack: Java Spring Boot | Openshit | Jaxb | Swagger | Sonarqube
 
 ### [Frequency Foundry](http://frequencyfoundry.ca), Calgary, AB - Senior Software Developer
 
-> (Dec 2015 ¬ Oct 2016)
+> (Dec 2015 - Oct 2016)
 
 #### SFU Vancouver
 
@@ -42,7 +42,7 @@ Tech Stack: Java Spring Boot | Openshit | Jaxb | Swagger | Sonarqube
 
 ### Proceed Solutions, Calgary, AB - Software Developer
 
-> (Aug 2015 ¬ Dec 2015)
+> (Aug 2015 - Dec 2015)
 
 #### Impact
 
