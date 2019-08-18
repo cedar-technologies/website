@@ -24,7 +24,7 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 * Set up Pull request Checks using (sonarQube)[https://www.sonarqube.org/].
 * Work with devops team to make all service cloud ready, currently deployed on Ministry [openshift](https://www.openshift.com/) plateform.
 
-Tech Stack: Java Spring Boot | Openshit | Jaxb | Swagger | Sonarqube
+Tech Stack: Java Spring Boot | Openshift | Jaxb | Swagger | Sonarqube
 
 #### Sanjel
 
