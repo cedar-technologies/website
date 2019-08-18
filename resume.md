@@ -18,6 +18,14 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### BC Ministry of Justice
 
+* Create suite of Java [Spring Boot](https://spring.io/projects/spring-boot) microservices to perform integration workflow for complex xml data.
+* Create reusable open source library to transfer documents [jrcc-document-access-libs](https://github.com/bcgov/jrcc-document-access-libs).
+* Lead team of 5 developers, enforce high level of unit testing and code coverage.
+* Set up Pull request Checks using (sonarQube)[https://www.sonarqube.org/].
+* Work with devops team to make all service cloud ready, currently deployed on Ministry [openshift](https://www.openshift.com/) plateform.
+
+Tech Stack: Java Spring Boot | Openshit | Jaxb | Swagger | Sonarqube
+
 #### Sanjel
 
 #### BC Ministry of Finance
