@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Profile
 
-I am an Experienced Software Developer with a demonstrated history of success working in a diverse range of industries. My main area of expertise are in Integration Development, Microservices, Rest API development, Devops and Continuous Integration. I have experience in .Net Framwork, Java, Python, Javascript. I have participated in multiple BC Government project as a lead developer. I am focusing delivering high quality software by enforcing engineering best practices and design.
+I am an Experienced Software Developer with a demonstrated history of success working in a diverse range of industries. My main areas of expertise are in Integration Development, Microservices, Rest API development, Devops and Continuous Integration. I have experience in .Net Framework, Java, Python, Javascript. I have participated in multiple BC Government project as a lead developer. I am focusing on delivering high quality software by enforcing engineering best practices and design.
 
 ## Experience
 
@@ -16,12 +16,12 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### BC Ministry of Justice
 
-* Create suite of Java [Spring Boot](https://spring.io/projects/spring-boot) microservices to perform integration workflow for complex xml data.
+* Created suite of Java [Spring Boot](https://spring.io/projects/spring-boot) microservices to perform integration workflow for complex xml data.
 * Create reusable open source library to transfer documents [jrcc-document-access-libs](https://github.com/bcgov/jrcc-document-access-libs).
-* Lead team of 5 developers, enforce high level of unit testing and code coverage.
+* Led team of 5 developers, enforce high level of unit testing and code coverage.
 * Set up Pull request Checks using [sonarQube](https://www.sonarqube.org/).
-* Work with devops team to make all service cloud ready, currently deployed on Ministry [openshift](https://www.openshift.com/) plateform.
-* Lead Scrum meeting, backlog refinment and definition.
+* Worked with devops team to make all service cloud ready, currently deployed on Ministry [openshift](https://www.openshift.com/) platform.
+* Led Scrum meeting, backlog refinement and definition.
 
 ##### Tech Stack
 
@@ -39,10 +39,10 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### BC Ministry of Finance
 
-* Create multipe integration application exposing SAP functinality as Rest API.
-* Create back end Rest for Citizen facing webSite to route payment, and account updates to different services.
-* Create Financial Hub application to transfer document accross multiple entities.
-* Lead teams of 5 developers.
+* Created multiple integration application exposing SAP functionality as Rest API.
+* Created back end Rest for Citizen facing webSite to route payment, and account updates to different services.
+* Created Financial Hub application to transfer document across multiple entities.
+* Led teams of 5 developers.
 
 ##### Tech Stack
 
@@ -54,7 +54,7 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### SFU Vancouver
 
-* Create Integration application to syncrhonize people soft accounts to Dynamics Crm Online.
+* Create Integration application to synchronize people soft accounts to Dynamics Crm Online.
 * Lead team of 2 developers, ensure high level of unit testing.
 
 ##### Tech Stack
@@ -76,7 +76,7 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 > (Aug 2015 - Dec 2015)
 
-* Work on geomapping application
+* Work on geo mapping application
 * Build a new feature to manage application stakeholders
 
 ##### Tech Stack
@@ -90,7 +90,7 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### Invoice Register
 
-* Create fullstack application to manage incoming invoices.
+* Create full stack application to manage incoming invoices.
 * Separate frontend backend application
 * Implement unit testing
 
@@ -104,9 +104,9 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 
 #### PACIFIC
 
-* Participated in development of a critical information system to capture distance traveled by train on the network. (1.6M km/day, 600.000 records/day).
+* Participated in the development of a critical information system to capture distance traveled by train on the network. (1.6M km/day, 600.000 records/day).
 * Wrote Business Requirement and Technical documentation for the financial Department.
-* Participated in Web Front¬end design (html, JavaScript).
+* Participated in Web Front¬end design (HTML, JavaScript).
 * Participated in Quality Assurance Tests (HP Quality Center).
 
 ### <img src="https://www.vfli.fr/extension/project/design/website/images/logo.png" height="35">  [VFLI](https://www.vfli.fr/en), Paris, France - Technical Analyst 
@@ -122,5 +122,11 @@ I am an Experienced Software Developer with a demonstrated history of success wo
 #### [ElasticSearch Victoria BC](https://www.meetup.com/Victoria-Elastic-Fantastics/)
 
 * Host and prepare Elastic search events.
-* Provide repositories with exemple on usage.
+* Provide repositories with example on usage.
 * Organize venue for different host to speak at events
+
+### Education
+
+* Masters Degree in logistics and supply chain management (IT oriented) Sup de Log, Lyon, France (2009)
+* Degree in Small and Medium Organization Management, Lyon, France (2008)
+
